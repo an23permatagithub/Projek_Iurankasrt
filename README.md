@@ -17,5 +17,4 @@ SOAL UAS    : Membuat Aplikasi Pengolahan Iuran KAS RT<br>
 # 3.Menjalankan CLI (Command Line Interface)
   
   
-  **TERIMAKASIH**
 <hr>
